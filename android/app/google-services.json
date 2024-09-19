@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932186202222",
+    "project_id": "legal-code-74fbb",
+    "storage_bucket": "legal-code-74fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932186202222:android:a26c523c947d8a6644067f",
+        "android_client_info": {
+          "package_name": "com.mycompany.legalcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpmapBwk7PPZD7XBaxI5WfEadz7H2wNXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
